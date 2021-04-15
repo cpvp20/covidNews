@@ -1,0 +1,5 @@
+---
+applications:
+ - name: covidnews
+   random-route: true
+   memory: 128M
